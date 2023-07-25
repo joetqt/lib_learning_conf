@@ -1,0 +1,10 @@
+README.md
+setup.py
+learning_conf/__init__.py
+learning_conf/myfunctions.py
+learning_conf.egg-info/PKG-INFO
+learning_conf.egg-info/SOURCES.txt
+learning_conf.egg-info/dependency_links.txt
+learning_conf.egg-info/requires.txt
+learning_conf.egg-info/top_level.txt
+tests/test_myfunctions.py
