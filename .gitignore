@@ -1,2 +1,5 @@
-.eggs
-.pytest_cache
+.eggs/
+.pytest_cache/
+.DS_Store
+.gitattributes
+.gitignore
